@@ -15,8 +15,8 @@ permissions:
   id-token: write
 
 env:
-  # BUILD_PATH: "." # default value when not using subfolders
-  BUILD_PATH: "site"
+  BUILD_PATH: "." # default value when not using subfolders
+  # BUILD_PATH: "site"
 
 jobs:
   build:
